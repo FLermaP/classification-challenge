@@ -1,6 +1,6 @@
 # classification-challenge
 
-## Results comparison between a Logistic Regression model and a Random Forest Classifier model
+## Results comparison between a Logistic Regression model and a Random Forest Classifier model file:spam_detector
 
 ### Tools
 - [Pandas](https://pandas.pydata.org/)
